@@ -1,11 +1,11 @@
 angular.module('app.controllers', [])
   
 .controller('pageCtrl', function($scope) {
-    $scope.bleh = "bleeeeeeh";
+
 })
    
 .controller('cameraTabDefaultPageCtrl', function($scope) {
-
+    $scope.bleh = "hey";
 })
    
 .controller('cartTabDefaultPageCtrl', function($scope) {

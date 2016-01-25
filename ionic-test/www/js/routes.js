@@ -70,6 +70,6 @@ angular.module('app.routes', [])
     ;
 
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/page3');
+  $urlRouterProvider.otherwise('/page2/page3');
 
 });
